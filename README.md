@@ -44,7 +44,12 @@ This template is designed for:
 - Nunjucks templating (used internally by the plugin)  
 
 Optional:
+- Pandoc & Pandoc Reference List (for automatic links between Zotero reading notes using {{ }}-style links)
 - Obsidian to Anki plugin (for spaced repetition workflow)
+- Advanced Obsidian Admonitions (for [!Citation], [!Synthesis], [!Metadata], etc.)
+- Mermaid plugin (for mindmaps, flowcharts, diagrams)
+- LaTeX / MathJax support (for inline `$...$` and block `$$...$$` math)
+- YAML frontmatter support (Obsidian natively handles frontmatter, required for tags, categories, citekey)
 
 ## ⚡ Quick Start
 
