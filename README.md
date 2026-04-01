@@ -1,4 +1,4 @@
-# Zotero → Obsidian Advanced Template
+# [Zotero → Obsidian](https://github.com/obsidian-community/obsidian-zotero-integration) Advanced Template
 
 A structured template to integrate Zotero annotations into Obsidian, designed for deep reading, synthesis, and knowledge building.
 
