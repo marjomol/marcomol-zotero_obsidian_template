@@ -1,3 +1,15 @@
+---
+tags:
+last date: "" # [USER] Last time you worked on this note
+creation date: "" # [USER] Creation date of the note
+category:
+  - "[[Zotero]]"
+  - "[[Saberes/Información/Información]]"
+  - "[[Saberes]]"
+citekey:
+  - "{{citekey}}" # [AUTO] Zotero citation key
+related:
+---
 <!--
 ================================================================================
 ZOTERO → OBSIDIAN ADVANCED TEMPLATE (COMMENTED VERSION)
@@ -18,19 +30,6 @@ Alexandra Phelan – “An Updated Academic Workflow: Zotero & Obsidian”
 
 ================================================================================
 -->
-
----
-tags:
-last date: "" # [USER] Last time you worked on this note
-creation date: "" # [USER] Creation date of the note
-category:
-  - "[[Zotero]]"
-  - "[[Saberes/Información/Información]]"
-  - "[[Saberes]]"
-citekey:
-  - "{{citekey}}" # [AUTO] Zotero citation key
-related:
----
 
 <!-- ========================= -->
 <!-- 📚 ZOTERO METADATA [AUTO] -->
@@ -302,7 +301,7 @@ This allows:
 To adapt the system:
 
 - Change color mappings inside `calloutHeader()`
-- Modify formatting rules in the `{% if %}` blocks
+- Modify formatting rules in the `{ if }` blocks
 - Add new categories (e.g., Argument, Example, Critique)
 
 --------------------------------------------------------------------------------
